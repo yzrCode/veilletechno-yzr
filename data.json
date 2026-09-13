@@ -373,6 +373,18 @@
     ],
     "CVE Feed": [
         {
+            "titre": "CVE-2026-90651 - Socket Firewall TLS Certificate Verification Bypass",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-90651",
+            "date": "12/09/2026",
+            "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500"
+        },
+        {
+            "titre": "CVE-2026-90647 - Kalkitech ASE2000 Improper Certificate Validation Vulnerability",
+            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-90647",
+            "date": "12/09/2026",
+            "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500"
+        },
+        {
             "titre": "CVE-2026-90560 - zstd-jni 1.2.0 through 1.5.7-13 Out-of-Bounds Read via ZstdDictDecompress",
             "lien": "https://cvefeed.io/vuln/detail/CVE-2026-90560",
             "date": "12/09/2026",
@@ -417,18 +429,6 @@
         {
             "titre": "CVE-2026-78175 - Tutor LMS <= 4.0.7 - Authenticated (Subscriber+) PHP Object Injection to Remote Code Execution",
             "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78175",
-            "date": "12/09/2026",
-            "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500"
-        },
-        {
-            "titre": "CVE-2026-78159 - The Events Calendar <= 6.17.3 - Unauthenticated Code Injection to Remote Code Execution via Widget 'classes' Map Callable Invocation",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78159",
-            "date": "12/09/2026",
-            "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500"
-        },
-        {
-            "titre": "CVE-2026-78006 - The Events Calendar <= 6.17.4 - Unauthenticated PHP Object Injection to Remote Code Execution",
-            "lien": "https://cvefeed.io/vuln/detail/CVE-2026-78006",
             "date": "12/09/2026",
             "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500"
         }
